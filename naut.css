@@ -31,4 +31,12 @@
 										/////
 						Add addons & your own customizations below here!
 										/////
+/* --- Addon: Header Background Image --- */
+body:before {
+    background-color: #FF8F78;
+    background-image: none;
+}
+
+#header .tabmenu li a, .pagename a {text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);}
+/* --- End Addon --- */
 ==================================================================================================================================*/
